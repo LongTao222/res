@@ -1,2 +1,3 @@
 # res
-To store my code
+name：Longtao Guo
+email：lontaoguo2@gmail.com
